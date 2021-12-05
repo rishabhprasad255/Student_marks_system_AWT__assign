@@ -34,6 +34,6 @@
 
 <img src="./assets/favourite_players.png">
 
-# Logout button
+# Logout button shown
 
 <img src="./assets/Logout.png">
